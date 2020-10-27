@@ -1,0 +1,87 @@
+header{
+    background-color: #1E3D59;
+    color: #F5F0E1;
+}
+.
+body{
+    background-color: #F5F0E1;
+}
+/* Bloc la catho */
+@media screen and (max-width: 720px){
+    .catho2{
+        visibility: hidden;
+    }
+    .stjo2{
+        visibility: hidden;
+    }
+}
+@media screen and (max-width: 1000px){
+    .cmlogo{
+        visibility: hidden;
+    }
+    .texamlogo{
+        visibility: hidden;
+    }
+}
+@media screen and (min-width: 720px){
+    .catho1{
+        visibility: hidden;
+    }
+    .stjo1{
+        visibility: hidden;
+    }
+
+}
+
+
+.container2{
+    background-color: #FFC13B;
+    color: #F5F0E1;
+}
+.formation{
+    font-size: 24px;
+    font-weight: bold;
+}
+.pro{
+    font-size: 24px;
+}
+.compétences{
+    font-size: 24px;
+}
+footer{
+    background-color: #1E3D59;
+    height: 120px;
+}
+.container3{
+    background-color: #FF6E40;
+    color: #F5F0E1;
+}
+.divers{
+    font-size: 24px;
+}
+.contact{
+    color: #F5F0E1;
+    font-size: 24px;
+}
+/* Correspond au background des barres progress C1,2,3,4,5,6,7 */
+.C1{
+    background-color: #1E3D59;
+}
+.C2{
+    background-color: #1E3D59;
+}
+.C3{
+    background-color: #1E3D59;
+}
+.C4{
+    background-color: #FFC13B;
+}
+.C5{
+    background-color: #FFC13B;
+}
+.C6{
+    background-color: #FF6E40;
+}
+.C7{
+    background-color: #FF6E40;
+}
